@@ -1,0 +1,49 @@
+{
+    "it": [
+        {
+            "data": {
+                "id": "1",
+                "label": "пример 1",
+                "type": "node",
+                "valid_until": "2026-07-05"
+            }
+        },
+        {
+            "data": {
+                "id": "4",
+                "label": "пример 2",
+                "type": "node",
+                "valid_until": "2026-06-23"
+            }
+        },
+        {
+            "data": {
+                "id": "764",
+                "label": "пример 3",
+                "type": "node",
+                "valid_until": "2026-05-21"
+            }
+        },
+        {
+            "data": {
+                "id": "83",
+                "label": "пример 4",
+                "type": "node"
+            }
+        },
+        {
+            "data": {
+                "id": "122",
+                "label": "пример 5",
+                "type": "node"
+            }
+        },
+        {
+            "data": {
+                "id": "523",
+                "label": "папка 1",
+                "type": "subgraph"
+            }
+        }
+    ]
+}
